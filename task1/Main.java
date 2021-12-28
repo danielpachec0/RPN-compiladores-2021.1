@@ -24,7 +24,7 @@ public class Main {
 				}
 			}
 
-			System.out.println("Saída: " + stack.peek());
+			System.out.println("Saida: " + stack.peek());
 			scanner.close();
 
 		}catch (FileNotFoundException e) {
